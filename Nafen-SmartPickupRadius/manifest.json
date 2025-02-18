@@ -1,0 +1,21 @@
+{
+	"name": "SmartPickupRadius",
+	"namespace": "Nafen",
+	"version_number": "1.0.0",
+	"description": "A mod which conditionally makes increased pickup range work, even at maximum health!",
+	"website_url": "https://github.com/example/repo",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["Nafen"],
+			"tags": ["Reworks"],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.2.3"],
+			"config_schema": {}
+		}
+	}
+}
