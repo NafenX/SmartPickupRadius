@@ -3,7 +3,7 @@
 	"namespace": "Nafen",
 	"version_number": "1.0.0",
 	"description": "A mod which conditionally makes increased pickup range work, even at maximum health!",
-	"website_url": "https://github.com/example/repo",
+	"website_url": "https://github.com/NafenX/SmartPickupRadius/blob/main/Nafen-SmartPickupRadius/",
 	"dependencies": [],
 	"extra": {
 		"godot": {
